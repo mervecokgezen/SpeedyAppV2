@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "859547407357",
+    "firebase_url": "https://speedyv2-e5824.firebaseio.com",
+    "project_id": "speedyv2-e5824",
+    "storage_bucket": "speedyv2-e5824.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859547407357:android:f759712e930b894e",
+        "android_client_info": {
+          "package_name": "com.examples.vestel.speedy_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859547407357-n862g2othn36c2ri1ladcn780o7vbdmt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.examples.vestel.speedy_v2",
+            "certificate_hash": "f756df236ed10c1a22486d808c6599660de7f76f"
+          }
+        },
+        {
+          "client_id": "859547407357-7v7hlo6glcthp3nh0v8bidrmp3nfagr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzJRQtGvmKSs50YAkOqJ_Dyrb1hiaCQmI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859547407357-7v7hlo6glcthp3nh0v8bidrmp3nfagr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
